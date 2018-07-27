@@ -1,4 +1,4 @@
-# EmendyDemo
+﻿# EmendyDem o
 
 ## Resources
 
@@ -6,6 +6,7 @@
 
 [Catlike Coding](http://catlikecoding.com)
 
+this is a conflicting change
 
 ### Video Tutorials
 
@@ -14,6 +15,8 @@
 [Brackeys](https://www.youtube.com/user/Brackeys)
 
 [Quill18](https://www.youtube.com/user/quill18)
+
+[Jayanam Blender and Unity Tutorials](https://www.youtube.com/channel/UCs5J4GVRB8s2P4hE-O0izrg)
 
 ### Other Resources
 
