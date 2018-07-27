@@ -21,9 +21,9 @@ public class Clock : MonoBehaviour
 
 	void Update()
 	{
-		hours.rotation = Quaternion.Euler(0f, DateTime.Now.Hour * degreesPerHour, 0f);
-		minutes.rotation = Quaternion.Euler(0f, DateTime.Now.Minute * degreesperMinute, 0f);
-		seconds.rotation = Quaternion.Euler(0f, DateTime.Now.Second * degreesPerSecond, 0f);
+		hours.rotation = Quaternion.Euler(0f, 0f, DateTime.Now.Hour * degreesPerHour);
+		minutes.rotation = Quaternion.Euler(0f, 0f, DateTime.Now.Minute * degreesperMinute);
+		seconds.rotation = Quaternion.Euler(0f, 0f, DateTime.Now.Second * degreesPerSecond);
 	}
 
 	public void PlayTickSound()
